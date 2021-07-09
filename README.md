@@ -2,7 +2,7 @@
 
 - Ставим gitbash (если нет)
 - На рабочем столе запускаем баш и вводим строку - 
-git clone https://github.com/Ovilord1992/ClassWorckExample.git
+	git clone https://github.com/Ovilord1992/ClassWorckExample.git
 
 #### P.S. в дальнейшем для обновления материалов, делать (git pull origin main)
 #### P.P.S. кто хочет страдать, качайте проект в zip через веб интерфейс гита
